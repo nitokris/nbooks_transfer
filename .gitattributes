@@ -5,3 +5,4 @@ big_se.pdf filter=lfs diff=lfs merge=lfs -text
 面向对象分析与设计[[:space:]]第3版[[:space:]]修订版[[:space:]]([[:space:]]etc.)[[:space:]](Z-Library).pdf filter=lfs diff=lfs merge=lfs -text
 UML[[:space:]]2面向对象分析与设计[[:space:]][[:space:]]微课版[[:space:]]--[[:space:]]谭火彬编著[[:space:]]--[[:space:]]2019[[:space:]]--[[:space:]]北京_清华大学出版社[[:space:]]--[[:space:]]9787302506980[[:space:]]--[[:space:]]a8e603bd74b7a7c7df26d2fd38ab0e01[[:space:]]--[[:space:]]Anna’s[[:space:]]Archive.pdf filter=lfs diff=lfs merge=lfs -text
 面向模式的软件架构[[:space:]]第1卷[[:space:]]模式系统[[:space:]](（德）布施曼著,[[:space:]](德)Frank[[:space:]]Buschmann[等]著[[:space:]],[[:space:]]袁国忠译,[[:space:]]布施曼[[:space:]]etc.)[[:space:]](Z-Library).pdf filter=lfs diff=lfs merge=lfs -text
+Software[[:space:]]Engineering[[:space:]]with[[:space:]]UML[[:space:]](Bhuvan[[:space:]]Unhelkar)[[:space:]](Z-Library).pdf filter=lfs diff=lfs merge=lfs -text
